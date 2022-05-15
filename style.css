@@ -1,0 +1,108 @@
+/* <style media="screen"> */
+  body
+  {
+    margin:0% 10%;
+  }
+  .heading
+  {
+    font-family: sans-serif;
+    color:#fff;
+    text-align: center;
+    font-weight: normal;
+    line-height: 2;
+    margin-top: 25%;
+  }
+  .button
+  {
+
+    margin-top: 20%;
+    margin-left: 10%;
+  }
+  .mobile
+  {
+    margin-top: 20%;
+    margin-left: 10%;
+    width:60%;
+    height: 90%;
+    transform: rotate(30deg);
+  }
+  #features
+  {
+    /* background-color:#B3E8E5; */
+    margin:10% 0;
+  }
+  .col-md-4
+  {
+
+    text-align: center;
+  }
+  h3
+  {
+     padding-top: 20px;
+  }
+  p
+  {
+    color:grey;
+  }
+  img
+  {
+    /* padding: 10px; */
+    width:40px;
+    height:40px;
+
+  }
+  .navbar
+  {
+    color:grey;
+    text-align: center;
+  }
+  .title
+  {
+    background-color:#B3E8E5;
+  }
+  .testimonials
+  {
+    background-color:#B3E8E5;
+    text-align: center;
+    padding: 0;
+
+    color:black;
+  }
+  h2
+  {
+    text-align: center;
+
+      margin-bottom: 0;
+      padding: 10%;
+  }
+
+  .press
+  {
+  margin-top: 0;
+  background-color:#B3E8E5;
+  text-align: center;
+  padding: 5%;
+  }
+
+  .card-header
+  {
+ background-color: #D7A86E;
+  }
+  .pricing
+  {
+    background-color:#FAF5E4;
+    text-align: center;
+  }
+  .sign
+  {
+    margin-top:40px;
+  }
+  .container-fluid
+  {
+    background-color: #FAF5E4;
+  }
+  .navbar
+  {
+    padding: 0;
+  }
+/* </style> */
